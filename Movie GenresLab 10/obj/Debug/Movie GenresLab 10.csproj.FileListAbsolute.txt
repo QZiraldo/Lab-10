@@ -1,0 +1,6 @@
+c:\users\quirico\documents\visual studio 2015\Projects\Movie GenresLab 10\Movie GenresLab 10\bin\Debug\Movie GenresLab 10.exe.config
+c:\users\quirico\documents\visual studio 2015\Projects\Movie GenresLab 10\Movie GenresLab 10\bin\Debug\Movie GenresLab 10.exe
+c:\users\quirico\documents\visual studio 2015\Projects\Movie GenresLab 10\Movie GenresLab 10\bin\Debug\Movie GenresLab 10.pdb
+c:\users\quirico\documents\visual studio 2015\Projects\Movie GenresLab 10\Movie GenresLab 10\obj\Debug\Movie GenresLab 10.csprojResolveAssemblyReference.cache
+c:\users\quirico\documents\visual studio 2015\Projects\Movie GenresLab 10\Movie GenresLab 10\obj\Debug\Movie GenresLab 10.exe
+c:\users\quirico\documents\visual studio 2015\Projects\Movie GenresLab 10\Movie GenresLab 10\obj\Debug\Movie GenresLab 10.pdb
